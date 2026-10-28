@@ -54,7 +54,7 @@
       "ly_points"
     ],
     "visible_layers": "ffffffff_ffffffff_fffffff5_77ffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "integration_disabled": false,
@@ -92,16 +92,16 @@
       9
     ],
     "col_widths": [
-      61,
-      65,
-      102,
-      99,
-      101,
-      132,
-      98,
-      103,
-      39,
-      40
+      63,
+      78,
+      123,
+      122,
+      123,
+      161,
+      119,
+      126,
+      42,
+      44
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
